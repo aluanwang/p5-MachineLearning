@@ -2,6 +2,7 @@
 Collect relevant examples of p5.js and ml. Js
 - - -
 ## Pix2Pix:<br/>
+* pix2pix-tensorflow https://github.com/affinelayer/pix2pix-tensorflow
 * Image-to-Image Demo https://affinelayer.com/pixsrv/
 * Edges to Pikachu http://1023.io/pix2pix-edges-to-pikachu-1
 * interactive human picture generator  https://dongphilyoo.github.io/pix2pix-ml5-demo/index.html
