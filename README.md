@@ -7,4 +7,6 @@ Collect relevant examples of p5.js and ml. Js
 * Edges to Pikachu http://1023.io/pix2pix-edges-to-pikachu-1
 * interactive human picture generator  https://dongphilyoo.github.io/pix2pix-ml5-demo/index.html
 * interactive satellite image generator https://ppt.cc/fS6Q8x
-- - -
+
+## YOLO:<br/>
+* https://editor.p5js.org/guillaume_slizewicz/sketches/1bR6UaQwS
